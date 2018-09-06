@@ -61,11 +61,11 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 25px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 25px;
 }
 
 h4 {
@@ -109,7 +109,7 @@ ul ul, ol ul {
 }
 
 em, i {
-  font-style: italic;
+  font-style: normal;
 }
 
 strong, b {
@@ -160,7 +160,7 @@ td {
 }
 
 .date {
-  font-style: italic;
+  font-style: normal;
   color: $gray;
 }
 
@@ -241,13 +241,13 @@ td {
   font-family: "Georgia";
   font-weight: 300;
   font-size: 28px;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 
 .site-description {
   margin: -5px 0 0 0;
   color: $black;
-  font-size: 16px;
+  font-size: 19px;
 
   @include mobile {
     margin: 3px 0;
