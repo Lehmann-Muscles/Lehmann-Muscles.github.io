@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Hi, I make blogs
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+Hola, hago blogs
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+oi, eu faço blogs
 
-[email@domain.com](mailto:email@domain.com)
+
+hi, ja napraviti blogove
+
+
+salut, je fais des blogs
