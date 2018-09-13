@@ -5,13 +5,31 @@ permalink: /about/
 ---
 
 
-Hola, hago blogs                               hallo, ik maak blogs                           hei, jeg lager blogger
+Hola, hago blogs                                                           
 
 
-oi, eu faço blogs                              Hallo, ich mache Blogs                         hi, tha mi a 'dèanamh bhlogan
+oi, eu faço blogs                                                    
 
 
-hi, ja napraviti blogove                       こんにちは、私はブログを作る                       hi, fi yn gwneud blogiau
+hi, ja napraviti blogove                                              
  
 
-salut, je fais des blogs                       Hi, a dhéanann mé blaganna                     hi, ngenza amabhulogi
+salut, je fais des blogs                                          
+
+
+hallo, ik maak blogs 
+
+
+Hallo, ich mache Blogs
+
+
+こんにちは、私はブログを作る
+
+
+Hi, a dhéanann mé blaganna   
+
+
+hi, tha mi a 'dèanamh bhlogan
+
+
+hi, ngenza amabhulogi
