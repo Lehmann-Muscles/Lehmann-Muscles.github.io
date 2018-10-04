@@ -1,15 +1,15 @@
 ---
-title: IT BLOG 1
+title: Making Another Github Blog
 layout: post
 author: james.lehmann-russell
-permalink: /it-blog-1/
+permalink: /Making Another Github Blog/
 source-id: 1s8oVRd_Vk_xnGV2uWtOlQns3apm2d36CVCX1WCqQn1I
 published: true
 ---
 <table>
   <tr>
     <td>Title:</td>
-    <td>Making another Github blog</td>
+    <td>IT BLOG 1</td>
     <td>Date:</td>
     <td>06.09.18</td>
   </tr>
