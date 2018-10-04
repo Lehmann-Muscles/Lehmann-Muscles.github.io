@@ -1,15 +1,15 @@
 ---
-title: IT BLOG 2
+title: Learning about Shift Ciphers
 layout: post
 author: james.lehmann-russell
-permalink: /it-blog-2/
+permalink: /Learning about Shift Ciphers/
 source-id: 1M-I6pr60hcIHH26RlFadNL2euvjkUSNI8HfnWQmF91E
 published: true
 ---
 <table>
   <tr>
     <td>Title:</td>
-    <td>Learning about Shift Ciphers</td>
+    <td>IT BLOG 2</td>
     <td>Date:</td>
     <td>13.09.18</td>
   </tr>
