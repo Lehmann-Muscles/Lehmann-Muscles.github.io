@@ -1,19 +1,20 @@
 ---
-title: IT BLOG 4
+title: Learning ASCII
 layout: post
 author: james.lehmann-russell
-permalink: /it-blog-4/
+permalink: /Learning ASCII/
 source-id: 1aaXwmMfZwU2UASwDw38LQNWCkqjvy4Zc3NisZP1E_FM
 published: true
 ---
 <table>
   <tr>
     <td>Title:</td>
-    <td>Learning ASCII</td>
+    <td>IT BLOG 4</td>
     <td>Date:</td>
     <td>27.09.18</td>
   </tr>
 </table>
+
 
 
 <table>
@@ -32,6 +33,7 @@ published: true
 </table>
 
 
+
 <table>
   <tr>
     <td>Persevering</td>
@@ -39,7 +41,7 @@ published: true
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>I asked myself what I used to encode the message and based my command on that </td>
+    <td>When I had started putting my ASCII values in I realised that I had done it wrong, as something didn't look right. I questioned what it should of looked </td>
   </tr>
   <tr>
     <td>Independence</td>
