@@ -45,15 +45,15 @@ published: true
   </tr>
   <tr>
     <td>Independence</td>
-    <td>I didn’t really have independence as I had to get help from one of my classmates as I couldn’t quite work out what to do</td>
+    <td>Instead of asking for help from the teacher or classmates I tried and suceeded to solve the problem myself</td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>I reflected on what I had tried to encode my message and tried to use the same sort of techniques to decipher it</td>
+    <td>I remembered what I had done in previous sessions and used the same techniques to solve the problems I had</td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>I tried as hard as I could to decipher the message but I couldn’t, so I had to get a little help</td>
+    <td>When I realised that I had done something qrong instead of sulking and giving up I tried to rectify my mistakes as quickly as I could</td>
   </tr>
 </table>
 
@@ -64,7 +64,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>I could have been a bit more focused on my work as I got quite easily distracted as I wanted to know how other people were doing. I also got distracted by other people talking to me and asking me questions about random stuff. I could have tried a bit harder to work out the answer instead of asking someone else for help after failing once.</td>
+    <td>At the start of the lesson we were all called to the front and Mr Keen explained what ASCII was. He then sent us back to the computers and asked us to find the values for ASCII and input them Into our spreadsheet. I struggled at first because I had the wrong values but I soon got back on track and managed to input all the values of ASCII into my spreadsheet. My spreadsheet now contains Ceasar Ciphers and ASCII values.</td>
     <td></td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Next time I will try to be a bit more resilient and try a few more things before asking someone else for help. I will also try to be more focused on my work and try not to get distracted by other people.</td>
+    <td>Next time I will be more careful and try not to put wrong code into my spreadsheet. I wasted so much time figuring out what was wrong and rectify it.</td>
     <td></td>
   </tr>
 </table>
