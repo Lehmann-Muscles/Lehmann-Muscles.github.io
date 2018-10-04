@@ -1,15 +1,15 @@
 ---
-title: IT BLOG 3
+title: Deciphering my Cipher
 layout: post
 author: james.lehmann-russell
-permalink: /it-blog-3/
+permalink: /Deciphering my Cipher/
 source-id: 1aaXwmMfZwU2UASwDw38LQNWCkqjvy4Zc3NisZP1E_FM
 published: true
 ---
 <table>
   <tr>
     <td>Title:</td>
-    <td>Deciphering my cipher</td>
+    <td>IT BLOG 3</td>
     <td>Date:</td>
     <td>20.09.18</td>
   </tr>
